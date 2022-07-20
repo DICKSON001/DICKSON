@@ -1,0 +1,62 @@
+.log{
+    width: 50px;
+}
+.container-fluid{
+    margin: auto;
+    background-color: darkblue;
+}
+.navbar-toggler{
+    background-color: white;
+}
+.nav-link{
+    color: white;
+    
+}
+.nav-link:hover{
+color:red;
+}
+.face{
+    width: 40px;
+    margin-left: 0.5cm;
+}
+.facee{
+    margin-left: 0.5cm;
+}
+h4{
+    text-align: center;
+}
+.headq{
+    height: 300px;
+    width: 663px;
+}
+.contain{
+    margin: 0.3cm;
+    background-color: rgba(151, 149, 149, 0.226);
+}
+.hp{
+    margin-left: 0.5cm;
+    font-style: italic;
+    background-image: url(back.jpg);
+}
+h3{
+    margin-left: 1.5cm;
+}
+.tab{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    font-style: italic;
+    background-image: url(bck.jpeg);
+}
+.elite{
+    width: 150px;
+}
+p{
+    padding-left: 0.5cm;
+}
+.elitee{
+    width: 300px;
+}
+a:hover{
+    color: red;
+}
